@@ -23,17 +23,21 @@ I am a passionate full-stack developer specializing in building robust and scala
 
 Here are some of my key projects:
 
-- **[College Management System](https://github.com/pdevwork/cms)**  
-  A full-featured web application designed for managing college activities, including user authentication, department management, attendance tracking, and more.  
+- **[E-commerce Website](https://github.com/pdevwork/e-commerce-website)**  
+  Built a full-stack e-commerce platform with user authentication, a shopping cart, and payment gateway integration for a complete shopping experience.  
   <sub>Technologies: MongoDB, Express.js, React.js, Node.js, JWT, Tailwind CSS</sub>  
 
-- **[Task Tracker App](https://github.com/pdevwork/task-tracker)**  
-  A productivity app that helps users track tasks, set deadlines, and mark their completion status.  
-  <sub>Technologies: React.js, Node.js, Express.js, MongoDB</sub>  
+- **[Chat Application](https://github.com/pdevwork/chat-application)**  
+  Developed a real-time chat application using React, Express, and Socket.io, enabling instant messaging and real-time communication.  
+  <sub>Technologies: React.js, Node.js, Express.js, Socket.io</sub>  
 
-- **[Personal Portfolio Website](https://github.com/pdevwork/portfolio)**  
-  My personal portfolio website showcasing my projects, skills, and resume.  
-  <sub>Technologies: React.js, Tailwind CSS</sub>  
+- **[Blog Platform](https://github.com/pdevwork/blog-platform)**  
+  Created a blogging platform with user registration, CRUD operations, and secure authentication using the MERN stack.  
+  <sub>Technologies: React.js, MongoDB, Express.js, Node.js, JWT</sub>  
+
+- **[Expense Tracker](https://github.com/pdevwork/expense-tracker)**  
+  Designed a personal finance management app with chart visualizations for dynamic expense tracking and budgeting.  
+  <sub>Technologies: React.js, Node.js, Express.js, MongoDB, D3.js</sub>
 
 Check out more of my projects [here](https://github.com/pdevwork?tab=repositories).
 
