@@ -49,7 +49,8 @@ Check out more of my projects [here](https://github.com/pdevwork?tab=repositorie
 **Back-end:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) 
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
