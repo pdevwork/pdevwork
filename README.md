@@ -5,7 +5,7 @@
 I am a passionate full-stack developer specializing in building robust and scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Currently exploring the world of **cybersecurity** and **ethical hacking** with a focus on **Python** and **Linux**.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-devpatel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pdevwork)](https://www.linkedin.com/in/pdevwork/)
-[![Gmail Badge](https://img.shields.io/badge/-pdevwork@yahoo.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pdevwork@yahoo.com)](mailto:pdevwork@yahoo.com)
+[![Gmail Badge](https://img.shields.io/badge/-pdevwork@yahoo.com-c14438?style=flat&logo=yahoo&logoColor=white&link=mailto:pdevwork@yahoo.com)](mailto:pdevwork@yahoo.com)
 [![GitHub Badge](https://img.shields.io/badge/-devpatel-black?style=flat&logo=github&link=https://github.com/pdevwork)](https://github.com/pdevwork)
 
 ---
